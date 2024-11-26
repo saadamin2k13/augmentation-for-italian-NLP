@@ -1,4 +1,4 @@
-## Augmentation-for-DRS-to-text-generation
+## Data Augmentation for Low-Resource Italian NLP:Enhancing Semantic Processing with DRS
 
 In this repo, we include the code for our CLiC-it-2024 paper entitled:
 
